@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodata.WebApi", "Geodata.WebApi\Geodata.WebApi.csproj", "{0F7D650C-2188-49A3-B806-35E4F0F9B949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodata.FunctionalUnitTests", "Geodata.FunctionalUnitTests\Geodata.FunctionalUnitTests.csproj", "{9CDB5D73-CCDB-456F-A0E3-0B059939969E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7D650C-2188-49A3-B806-35E4F0F9B949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7D650C-2188-49A3-B806-35E4F0F9B949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7D650C-2188-49A3-B806-35E4F0F9B949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7D650C-2188-49A3-B806-35E4F0F9B949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDB5D73-CCDB-456F-A0E3-0B059939969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDB5D73-CCDB-456F-A0E3-0B059939969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDB5D73-CCDB-456F-A0E3-0B059939969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDB5D73-CCDB-456F-A0E3-0B059939969E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77B63E6-922E-4E02-A894-985589AB533A}
+	EndGlobalSection
+EndGlobal
